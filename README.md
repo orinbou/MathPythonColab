@@ -1,6 +1,6 @@
 # MathPythonColab
 
-中学・高校数学で学ぶ、数学×Pythonプログラミング 学習用リポジトリ
+中学・高校数学で学ぶ、数学×Pythonプログラミング 個人学習用リポジトリ
 
 ### 公式インデックス
 https://atmarkit.itmedia.co.jp/ait/subtop/features/di/mathpython_index.html
